@@ -1,0 +1,15 @@
+{
+  "name": "tarea-tv-show",
+  "version": "1.0.0",
+  "description": "Series y episodios consultados con la API de TVMaze",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve src -l 3000"
+  },
+  "keywords": [
+    "tvmaze",
+    "api",
+    "tv-show"
+  ],
+  "license": "MIT"
+}
